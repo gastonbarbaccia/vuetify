@@ -45,6 +45,6 @@
         "vuetify-loader": "^1.4.3"
     },
     "engines": {
-        "node": "14.x"
+        "node": "^14.15.4"
     }
 }
